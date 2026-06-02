@@ -24,7 +24,7 @@ The solution relies on three core operational phases:
 
 ## 🛠️ Quick-Start Deployment Guide (5 Minutes)
 
-Because this solution is pre-packaged inside a single Dataverse Solution, you only need to configure your local environmental connections and knowledge source to begin testing.
+Because this solution is pre-packaged inside a single Dataverse Solution, you only need to configure your local environmental connections and knowledge source to begin testing. Download unmanged solution AgentAcademyHackathon_1_0_0_1.zip from SourceCode folder and import it into an environment.
 
 ### Step 1: Update the Knowledge Source (Copilot Studio)
 
